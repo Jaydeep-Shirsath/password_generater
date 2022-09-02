@@ -1,1 +1,1 @@
-# password_generater
+Auto Password Generator
